@@ -25,4 +25,4 @@ Requirements:
             Removing a product.
             Displaying the inventory list and total inventory value.
 
-5/16/24 - Updated readme. Updated comments within the code and 
+5/16/24 - Updated readme. Updated comments within the code and attempted to "clean up" the code by putting each chunk in seperate cells
